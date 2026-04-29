@@ -1,9 +1,10 @@
 {
-  "name": "terminal-error-sound",
-  "displayName": "Terminal Error Sound",
+  "name": "terminal-es",
+  "displayName": "Error Sounds for Terminal",
   "description": "Plays a sound when a terminal command prints an error or exits with a non-zero code.",
-  "version": "1.0.0",
-  "publisher": "nillan",
+  "icon": "media/icon.png",
+  "version": "1.0.1",
+  "publisher": "nlln19",
   "engines": {
     "vscode": "^1.90.0"
   },
