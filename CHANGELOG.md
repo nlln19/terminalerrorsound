@@ -1,9 +1,15 @@
-# Change Log
+# Changelog
 
-All notable changes to the "terminal-error-sound" extension will be documented in this file.
+## 1.0.0
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Initial release of Terminal Error Sound.
 
-## [Unreleased]
+### Added
 
-- Initial release
+- Play a sound when a terminal command fails.
+- Detect common terminal error patterns.
+- Built-in sound picker.
+- Custom sound import.
+- Reset to default sound.
+- Status bar toggle.
+- Trigger mode selection.
