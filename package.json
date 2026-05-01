@@ -2,12 +2,12 @@
   "name": "terminal-es",
   "displayName": "Error Sounds for Terminal",
   "description": "Plays a sound when a terminal command prints an error or exits with a non-zero code.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "nlln19",
   "icon": "media/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nlln19/terminalerrorsound"
+    "url": "https://github.com/nlln19/esft"
   },
   "license": "MIT",
   "keywords": [
